@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-//A model for how a city could encourage citizens to plant trees, and track trees that each citizen has planted 
+//A model for how a city could encourage citizens to plant trees, and track the trees each citizen has planted 
 
 pragma solidity ^0.8.3;
 
